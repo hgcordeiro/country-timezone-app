@@ -1,0 +1,55 @@
+[
+  {
+  "id": 1,
+  "utc": "UTC-12:00",
+  "name": 
+    "Baker Island, Howland Island (both uninhabited)"
+  ,
+  "hours": -12,
+  "mins": 0,
+  "secs": 0
+}, {
+  "id": 2,
+  "utc": "Goldenrod",
+  "name": "",
+  "hours": 23,
+  "mins": 35,
+  "secs": 18
+}, {
+  "id": 3,
+  "utc": "Blue",
+  "name": "",
+  "hours": 0,
+  "mins": 1,
+  "secs": 21
+}, {
+  "id": 4,
+  "utc": "Purple",
+  "name": "",
+  "hours": 4,
+  "mins": 26,
+  "secs": 15
+}, {
+  "id": 5,
+  "utc": "Fuscia",
+  "name": "",
+  "hours": 13,
+  "mins": 34,
+  "secs": 25
+}, {
+  "id": 6,
+  "utc": "UTC-08:00",
+  "name": "Canada (most of British Columbia)",
+  "hours": 15,
+  "mins": 41,
+  "secs": 1
+}, {
+  "id": 7,
+  "utc": "UTC-07:00",
+  "name":
+    "Canada (northeastern British Columbia)",
+  "hours": 4,
+  "mins": 45,
+  "secs": 13
+}
+]
